@@ -1,0 +1,5 @@
+
+
+autoreconf
+./configure --with-tcl=/usr/local/lib/tcl8.6 --with-itcl=/usr/local/lib/itcl4.0.4
+

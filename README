@@ -1,0 +1,7 @@
+This is dayspeed, a package for providing accelerated C-based routines for some Itcl methods.
+
+Using the dayspeed interface
+===
+
+package require Dayspeed
+
